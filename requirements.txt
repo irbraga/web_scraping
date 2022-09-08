@@ -1,0 +1,8 @@
+tqdm==4.60.0
+requests==2.22.0
+beautifulsoup4==4.8.2
+pymongo==4.2.0
+
+
+flake8 # For Linting
+black  # For code formatting
